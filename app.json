@@ -1,0 +1,7 @@
+{
+  "name": "EZTV RSS Generator",
+  "description": "Simple php files to scrap the content of eztv.it show pages and generate a RSS feed that can be readed by utorrent clients.",
+  "repository": "https://github.com/thomasgroch/eztv-rss-generator",
+  "addons": [
+  ]
+}

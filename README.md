@@ -28,6 +28,13 @@ Drop the files on a folder of your web server root. That's all!
 
 IMPORTANT: always copy the last 2 parts (the number and the name of the show)
 
+### Heroku Deploy Installation
+
+1. Click on this link.
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+2. Log with your credentials. 
+
 Enjoy!!
 
 

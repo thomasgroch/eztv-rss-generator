@@ -3,7 +3,7 @@ EZTV RSS Generator
 
 This project scrappes the eztv.it page of a specified show and generates a RSS
 torrent feed that can be readed by uTorrent for automatize the download of TV
-show.
+show. [visit demo](http://sample-eztv-rss-generator.herokuapp.com)
 
 ### Requirements
 
